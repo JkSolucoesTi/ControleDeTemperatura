@@ -1,0 +1,19 @@
+c:\users\marco.junior\documents\visual studio 2015\Projects\Arduino\Arduino\bin\Debug\Arduino.exe.config
+c:\users\marco.junior\documents\visual studio 2015\Projects\Arduino\Arduino\bin\Debug\Arduino.exe
+c:\users\marco.junior\documents\visual studio 2015\Projects\Arduino\Arduino\bin\Debug\Arduino.pdb
+c:\users\marco.junior\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.csprojResolveAssemblyReference.cache
+c:\users\marco.junior\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.Form1.resources
+c:\users\marco.junior\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+c:\users\marco.junior\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.csproj.GenerateResource.Cache
+c:\users\marco.junior\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.exe
+c:\users\marco.junior\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.pdb
+C:\Users\Gonçalves\source\repos\Arduino\Arduino\bin\Debug\Arduino.exe.config
+C:\Users\Gonçalves\source\repos\Arduino\Arduino\bin\Debug\Arduino.exe
+C:\Users\Gonçalves\source\repos\Arduino\Arduino\bin\Debug\Arduino.pdb
+C:\Users\Gonçalves\source\repos\Arduino\Arduino\obj\Debug\Arduino.csprojAssemblyReference.cache
+C:\Users\Gonçalves\source\repos\Arduino\Arduino\obj\Debug\Arduino.Form1.resources
+C:\Users\Gonçalves\source\repos\Arduino\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+C:\Users\Gonçalves\source\repos\Arduino\Arduino\obj\Debug\Arduino.csproj.GenerateResource.cache
+C:\Users\Gonçalves\source\repos\Arduino\Arduino\obj\Debug\Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalves\source\repos\Arduino\Arduino\obj\Debug\Arduino.exe
+C:\Users\Gonçalves\source\repos\Arduino\Arduino\obj\Debug\Arduino.pdb

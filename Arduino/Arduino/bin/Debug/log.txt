@@ -1,0 +1,54 @@
+Temperatura = 31.77Temperatura maxima atingida
+ Data 03/11/2019 11:11:51
+Temperatura = 31.77Temperatura maxima atingida
+ Data 03/11/2019 11:11:55
+Temperatura = 32.26Temperatura maxima atingida
+ Data 03/11/2019 11:11:59
+Temperatura = 32.75Temperatura maxima atingida
+ Data 03/11/2019 11:12:50
+Temperatura = 32.26Temperatura maxima atingida
+ Data 03/11/2019 11:12:52
+Temperatura = 31.77Temperatura maxima atingida
+ Data 03/11/2019 11:12:56
+Temperatura = 31.2atura maxima atingida
+31.77Temperatura maxima atingida
+ Data 03/11/2019 11:13:27
+Temperatura = 32.75Temperatura maxima atingida
+ Data 03/11/2019 11:13:28
+Temperatura = 32.75Temperatura maxima atingida
+ Data 03/11/2019 11:13:32
+Temperatura = 31.77Temperatura maxima atingida
+ Data 03/11/2019 11:13:36
+Temperatura = 32.26Temperatura maxima atingida
+ Data 03/11/2019 11:13:40
+Temperatura = 32.26Temperatura maxima atingida 
+
+ Data 03/11/2019 11:16:24
+Temperatura = 32.75Temperatura maxima atingida 
+
+ Data 03/11/2019 11:16:27
+Temperatura = 32 atingida
+31.77
+Temperatura maxima atingida
+ Data 03/11/2019 11:18:08
+Temperatura = 32.26
+Temperatura maxima atingida
+ Data 03/11/2019 11:18:12
+Temperatura = 31.77
+Temperatura maxima atingida
+ Data 03/11/2019 11:18:16
+Temperatura = 32.26
+Temperatura maxima atingida
+ Data 03/11/2019 11:18:20
+Temperatura = 32.75
+Temperatura maxima atingida
+ Data 03/11/2019 11:18:24
+Temperatura = 31.77
+Temperatura maxima atingida
+ Data 03/11/2019 11:18:28
+Temperatura = 31.77
+Temperatura maxima atingida
+ Data 03/11/2019 11:18:32
+Temperatura = 32.26
+Temperatura maxima atingida
+ Data 03/11/2019 11:18:36
